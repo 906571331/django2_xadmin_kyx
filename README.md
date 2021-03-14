@@ -1,0 +1,2 @@
+# django2_xadmin_kyx
+此仓库提供了Django2并且配备了xadmin作为后台管理系统，已经可以运行
